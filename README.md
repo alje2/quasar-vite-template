@@ -1,3 +1,4 @@
+[![CodeQL](https://github.com/alje2/quasar-vite-template/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/alje2/quasar-vite-template/actions/workflows/codeql-analysis.yml)
 # Quasar App (quasar-project)
 
 A Quasar Project

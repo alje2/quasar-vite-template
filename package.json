@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "eslint": "^8.22.0",
-    "eslint-plugin-vue": "^9.3.0",
+    "eslint-plugin-vue": "^9.4.0",
     "eslint-config-prettier": "^8.1.0",
     "prettier": "^2.5.1",
     "@quasar/app-vite": "^1.0.6",
